@@ -1,5 +1,5 @@
 ---
-title: CDK Service Mobile Desktop : 2026-10-15
+title: CDK Service Mobile Desktop  2026-10-15
 ---
 
 
