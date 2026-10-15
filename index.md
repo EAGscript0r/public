@@ -1,8 +1,6 @@
 ---
-title: CDK Service Mobile Desktop  2026-10-15
+# CDK Service Mobile Desktop | 2026-10-15
 ---
-
-
 
 How to configure an iPad for the *CDK Service Mobile Desktop* app
 
